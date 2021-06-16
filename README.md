@@ -1,2 +1,2 @@
 # meetple-token-erc20
-MeetPleToken
+MeetPleToken SmartContract
